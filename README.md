@@ -1,7 +1,7 @@
 
-#NYC MetroCard Game Of Thrones | Augmented Reality
+NYC MetroCard Game Of Thrones | Augmented Reality | ARKIT 2.0 & Unity 3D
 
-Full Video -> https://www.facebook.com/22Halo/videos/1874479979347721/
+Full Video -> https://www.youtube.com/watch?v=2UpCq-tsP5E
 
 ![game ot thronesw](https://user-images.githubusercontent.com/43025563/50564225-4d987700-0cf1-11e9-8037-f2cd4edbd509.jpg)
 <img width="1440" alt="screen shot 2018-12-31 at 11 04 12" src="https://user-images.githubusercontent.com/43025563/50564167-d662e300-0cf0-11e9-8194-180df861d8dd.png">
